@@ -60,10 +60,17 @@ This hands-on experience helped bridge the gap between theoretical SQL knowledge
 
 #OUTPUT : 
 INNER JOIN:
+
 ![Image](https://github.com/user-attachments/assets/2d8c921c-fb10-4f5a-90e9-7d2563a2b7ee)
+
 LEFT JOIN:
+
 ![Image](https://github.com/user-attachments/assets/0ce8a3d7-3d0b-489e-8051-54cfec35922d)
+
 RIGHT JOIN:
+
 ![Image](https://github.com/user-attachments/assets/baf3c248-8c4f-4153-a346-6a56d4c3f2eb)
+
 FULL JOIN 
+
 ![Image](https://github.com/user-attachments/assets/dc00ff72-de16-4547-99b9-adc51edf3ac8)
