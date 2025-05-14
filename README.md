@@ -57,3 +57,6 @@ Through this task, I developed a strong understanding of relational data modelin
 Using MySQL Workbench made it easy to visualize join results and debug queries. It also allowed me to practice writing efficient queries and analyzing data relationships through a clean, structured interface.
 
 This hands-on experience helped bridge the gap between theoretical SQL knowledge and practical database handling. It also gave me insights into how data inconsistencies can be detected and resolved in real-world systems, making it an essential learning exercise in my internship. 
+
+#OUTPUT : 
+![Image](https://github.com/user-attachments/assets/2d8c921c-fb10-4f5a-90e9-7d2563a2b7ee)
